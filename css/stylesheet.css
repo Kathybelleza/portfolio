@@ -1,7 +1,6 @@
 
 body{
-    background-image: url('img/download.jpg') ;
-    c
+    background: navajowhite;
 }
 h1{
     font-family: "Times New Roman";
@@ -12,7 +11,4 @@ nav{
 }
 #text{
     text-align: right;
-}
-header{
-    background-image: ;
 }
